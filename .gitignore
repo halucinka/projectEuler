@@ -1,0 +1,8 @@
+# OSX
+.DS_Store
+
+# Logs
+logs
+*.log
+*.py
+*.out
